@@ -1,0 +1,112 @@
+.end {
+  margin-bottom: 150px;
+  width: 100%;
+}
+
+.end-txt {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.end-btn {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.end-btn .btt {
+  width: 550px;
+  height: 60px;
+  border: 1px solid #cacaca;
+  border-radius: 5px;
+  outline: none;
+  padding-left: 30px;
+}
+
+.end-btn .btnnn {
+  position: absolute;
+  width: 130px;
+  height: 60px;
+  margin-left: -130px;
+  background-color: #023166;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.footer {
+  margin-bottom: 150px;
+}
+
+.footer-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer-card .card1 {
+  width: 350px;
+}
+
+.footer-card .card1 P {
+  width: 78%;
+  margin-bottom: 20px;
+}
+
+.footer-card .card1 h5 {
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.footer-card .card2 {
+  margin-top: 80px;
+  margin-right: 90px;
+}
+
+.footer-card .card2 h4 {
+  margin-bottom: 10px;
+}
+
+.footer-card .card3 {
+  margin-top: 70px;
+  margin-right: 90px;
+}
+
+.footer-card .card3 h4 {
+  margin-bottom: 10px;
+}
+
+.footer-card .card4 {
+  margin-top: 30px;
+}
+
+.footer-card .card4 h3 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.footer-card .card4 input {
+  width: 250px;
+  height: 40px;
+}
+/*# sourceMappingURL=style.css.map */
